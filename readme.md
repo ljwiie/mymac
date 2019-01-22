@@ -18,3 +18,9 @@
 [clover-wiki](https://clover-wiki.zetam.org/zh-CN/contents)  
 [mac 挂载 EFI 分区](https://blog.csdn.net/rznice/article/details/81273003)  
 [老毛桃win10pe UEFI版使用教程](http://www.laomaotao.org/win10pe/uefi.html)  
+
+[最通俗易懂的黑苹果安装教程，送给苦苦爬贴的小白们](http://bbs.pcbeta.com/viewthread-1726460-1-1.html)  
+[从零开始的黑苹果安装教程](https://baijiahao.baidu.com/s?id=1599850640359282660&wfr=spider&for=pc)  
+
+[【Len's DMG】macOS High Sierra 10.13.6 17G65 With Clover 4596原版镜像](http://bbs.pcbeta.com/viewthread-1790952-1-1.html)  
+
